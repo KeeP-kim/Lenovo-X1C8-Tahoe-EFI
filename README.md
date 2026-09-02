@@ -41,8 +41,7 @@ sleep/wake.
 hibernation / "deep sleep" on this setup. That is the normal choice for a hackintosh; do not
 raise it expecting it to work.
 
-Windows boots from the firmware boot menu (F12), not from the OpenCore picker. See the note at
-the end.
+All three OSes boot from the OpenCore picker. F12 remains available as a fallback.
 
 ## Before you boot: fill these in
 
