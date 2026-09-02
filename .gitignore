@@ -1,0 +1,6 @@
+.DS_Store
+._*
+*.bak
+*.bak-*
+*backup*
+config.plist.*
